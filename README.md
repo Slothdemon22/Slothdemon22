@@ -11,7 +11,8 @@ I'm a full stack developer from Pakistan, passionate about building web apps tha
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="basilsaleem12@gmail.com" target="blank"><i class="devicon-google-plain"></i> Email</a>
+  <a href="basilsaleem12@gmail.com" target="blank"><i class="devicon-google-plain"></i> basilsaleem12@gmail.com</a>
+  <br/>
   <a href="https://www.linkedin.com/in/basil-saleem-889a3a229/" target="blank"><i class="devicon-linkedin-plain colored"></i> DevOps engineer by day, Warzone squad leader by night — let's connect</a>
 </p>
 
