@@ -20,6 +20,15 @@ I'm a full stack developer from Pakistan, passionate about building web apps tha
   <img src="https://komarev.com/ghpvc/?username=Slothdemon22&label=Profile%20views&color=0e75b6&style=flat" alt="Slothdemon22" />
 </p>
 
+<h3 align="left">🚀 Featured Projects:</h3>
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🛰 **Decentralized Uptime System** | A decentralized uptime monitoring MVP for hackathons | [View Repo](https://github.com/Slothdemon22/Slothdemon22-Decentralized-Uptime-System) |
+| 📚 **Library Management System** | A full-featured web app for library operations and admin control | [View Repo](https://github.com/Slothdemon22/Library-Management-System) |
+| 🤖 **AI Resume Analyzer** | A resume analysis + HR shortlisting tool built for an AI hackathon | [View Repo](https://github.com/Slothdemon22/ai-hackathon) |
+
+
 ------
 <h3 align="left">Activity:</h3>
 
