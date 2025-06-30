@@ -12,7 +12,7 @@ I'm a full stack developer from Pakistan, passionate about building web apps tha
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:you@example.com" target="blank"><i class="devicon-google-plain"></i> Email</a>
-  <a href="https://linkedin.com/in/slothdemon" target="blank"><i class="devicon-linkedin-plain colored"></i> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/basil-saleem-889a3a229/" target="blank"><i class="devicon-linkedin-plain colored"></i> DevOps engineer by day, Warzone squad leader by night — let's connect</a>
 </p>
 
 <p align="left">
@@ -70,10 +70,7 @@ I'm a full stack developer from Pakistan, passionate about building web apps tha
     </tr>
 </table>
 
-------
-<p align="center">
-  🔥 "If code had recoil, I'd still hit every shot."
-</p>
+
 
 [Slothdemon22](https://github.com/Slothdemon22)
 30/06/2025
