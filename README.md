@@ -16,24 +16,24 @@ I'm a full stack developer from Pakistan, passionate about building web apps tha
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=slothdemon&label=Profile%20views&color=0e75b6&style=flat" alt="slothdemon" />
+  <img src="https://komarev.com/ghpvc/?username=Slothdemon22&label=Profile%20views&color=0e75b6&style=flat" alt="Slothdemon22" />
 </p>
 
 ------
 <h3 align="left">Activity:</h3>
 
-[![Slothdemon's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=slothdemon&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Slothdemon22's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Slothdemon22&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <a href="https://github.com/slothdemon">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=slothdemon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="slothdemon"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slothdemon&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="slothdemon"/>
+  <a href="https://github.com/Slothdemon22">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Slothdemon22&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Slothdemon22"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Slothdemon22&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Slothdemon22"/>
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/slothdemon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=slothdemon&&theme=tokyonight" alt="slothdemon" />
+  <a href="https://github.com/Slothdemon22">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slothdemon22&&theme=tokyonight" alt="Slothdemon22" />
   </a>
 </p>
 
@@ -75,5 +75,5 @@ I'm a full stack developer from Pakistan, passionate about building web apps tha
   🔥 "If code had recoil, I'd still hit every shot."
 </p>
 
-[slothdemon](https://github.com/slothdemon)
+[Slothdemon22](https://github.com/Slothdemon22)
 30/06/2025
