@@ -7,7 +7,7 @@ I'm a full stack developer from Pakistan, passionate about building web apps tha
 - 🔭 I’m currently working on: **Full-stack projects with AI, CI/CD pipelines, and cloud deployments**
 - 🌱 Currently learning: **Terraform, Kubernetes, Azure Pipelines**
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, Docker, GitHub Actions, Prisma, Firebase, and Cloud stuff**
-- 🎮 Fun fact: I rush bugs like I rush buildings in Warzone — first in, last standing.
+- 🎮 Fun fact:I push PRs the same way I push squads in Warzone — no hesitation, full send.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
